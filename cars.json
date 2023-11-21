@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "Mobil": "Mitsubishi Eclipse",
+            "Tahun": "1989 - 2012",
+            "Mesin": "Inline-4 (4G63, 4G64), V6 (6G72)",
+            "Horsepower": "150 - 265 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1hlEFHt8zAHLuLJmY4Bd45fcH8iM3GGvx/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Mitsubishi Lancer Evo IX",
+            "Tahun": "2005 - 2007",
+            "Mesin": "Inline-4 turbocharged (4G63T)",
+            "Horsepower": "286 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1tFCANKgC6j3X3BubTxInCce_sF7WbSUs/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Nissan Silvia S15",
+            "Tahun": "1999 - 2002",
+            "Mesin": "Inline-4 turbocharged (SR20DET)",
+            "Horsepower": "160 - 250 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1VvnR09E3EIAs6ZnJ-PSSnpC9WEpKxLRH/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Nissan Z 2023",
+            "Tahun": "2023",
+            "Mesin": "V6 twin-turbo",
+            "Horsepower": "400 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1tUwCW3rWGH9iRFMK0ebgj7ynF4JzLcjl/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Nissan GTR35",
+            "Tahun": "2007 - present",
+            "Mesin": "V6 twin-turbo (VR38DETT)",
+            "Horsepower": "565 - 600 HP",
+            "Transmisi": "Dual-clutch Automatic",
+            "Gambar": "https://drive.google.com/file/d/1S5VvgfnBhVMtbc-owees3azx-TsFApz_/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Nissan Skyline R34",
+            "Tahun": "1999 - 2002",
+            "Mesin": "Inline-6 twin-turbo (RB26DETT)",
+            "Horsepower": "280 - 330 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1iqG-V7W7GR6C7f5g26ZC6EsaPqjHZezF/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Honda NSX Type R",
+            "Tahun": "1990 - 2005",
+            "Mesin": "V6 (C30A, C32B)",
+            "Horsepower": "290 - 300 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/15Cgx87blFAECUhqnkMGnVC0misvcZKHS/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Mazda RX 7",
+            "Tahun": "1978 - 2002",
+            "Mesin": "Rotary engine (13B-REW)",
+            "Horsepower": "252 - 280 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1uofNBU0V5cKYPCwYGa1S1g2aFPMW7XAV/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Subaru WRX STI",
+            "Tahun": "1994 - present",
+            "Mesin": "Boxer engine turbocharged (EJ20, EJ25)",
+            "Horsepower": "310 - 341 HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1bKRi3G2Im1GfQ_QhzYuyRpkI_VXnGy1L/view?usp=drive_link"
+        },
+        {
+            "Mobil": "Toyota Supra MK4",
+            "Tahun": "1993 - 2002",
+            "Mesin": "Inline-6 twin-turbo (2JZ-GTE)",
+            "Horsepower": "320 - 330+ HP",
+            "Transmisi": "Manual",
+            "Gambar": "https://drive.google.com/file/d/1Gxkthj_J07Ljf62iEuiupFDrMa3Pgc36/view?usp=drive_link"
+        }
+    ]    
+}
